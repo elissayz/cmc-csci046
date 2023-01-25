@@ -1,4 +1,4 @@
-# CSCI046: Data Structures and Algorithms
+ CSCI046: Data Structures and Algorithms
 <!--
 See:
 http://nifty.stanford.edu/2020/schwarz-recursion-to-the-rescue/
@@ -96,7 +96,7 @@ Your grade will be composed of:
 1. Weekly labs (worth `2**1` points)
 1. Weekly quizzes (worth `2**2` or `2**3` points)
 1. Weekly projects (worth `2**4` or `2**5` points)
-1. No midterm/final exam.
+1. No midterm/final exam!!
     1. Non-graduating students will complete a final project due during finals week.
 1. [Occassional extra credit assignments](extra_credit/README.md)
 
